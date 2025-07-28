@@ -1,2 +1,2 @@
 # AlpacaTradingBot
-Simple bots for the alpaca website.
+Simple bots for the Alpaca website.
